@@ -1,4 +1,4 @@
-Day_of_Week,Late_Night,Morning,Afternoon,Night
+Day_of_Week,0:00-5:59AM,6:00-11:59AM,12:00-5:59PM,6:00-11:59PM
 Monday,64.58,168.75,175.0,154.17
 Tuesday,60.42,122.92,156.25,166.67
 Wednesday,60.42,137.5,193.75,168.75

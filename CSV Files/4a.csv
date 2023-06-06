@@ -1,4 +1,4 @@
-Day_of_Week,Late_Night,Morning,Afternoon,Night
+Day_of_Week,0:00-5:59AM,6:00-11:59AM,12:00-5:59PM,6:00-11:59PM
 Monday,1550,4050,4200,3700
 Tuesday,1450,2950,3750,4000
 Wednesday,1450,3300,4650,4050

@@ -1,3 +1,3 @@
-Weekend,Late_Night,Morning,Afternoon,Night
+Weekend,0:00-5:59AM,6:00-11:59AM,12:00-5:59PM,6:00-11:59PM
 N,0.11,0.25,0.32,0.32
 Y,0.12,0.26,0.34,0.28
