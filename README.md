@@ -5,7 +5,7 @@ This was my first time using computer vision to extract information, and my firs
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-ChargeZoneApr2023 © 2023 by Janvi Nerurkar is licensed under a
+[ChargeZoneApr2023](https://github.com/jnerurkar/ChargeZoneApr2023) © 2023 by [Janvi Nerurkar](https://github.com/jnerurkar) is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
