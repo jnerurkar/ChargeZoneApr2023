@@ -3,4 +3,4 @@ In partnership with [ExperiencesWithEVs](https://expwithevs.substack.com/), I de
 
 This was my first time using computer vision to extract information, and my first major Python-based project. Insights from this exercise will be published in a blog post soon, so stay tuned!
 
-ChargeZoneApr2023 © 2023 by Janvi Nerurkar is licensed under CC BY-NC-SA 4.0 
+ChargeZoneApr2023 © 2023 by Janvi Nerurkar is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
